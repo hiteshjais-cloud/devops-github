@@ -1,0 +1,6 @@
+git add. - stage all the filles in the folder
+git innit- 
+git add-
+git commit -m ""git cached or unstage- 
+git restore- 
+git status- 
