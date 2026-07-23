@@ -1,3 +1,6 @@
-print("4*4 = ", 4*4)
-print("this is Orion Pax")
-print("hello world?")
+import os, sys
+
+def Check_Error( x ):
+    y = x+1
+    return y
+return x 
